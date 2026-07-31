@@ -25,6 +25,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanka91722/problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/priyanka91722/problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanka91722/problems/tree/master/0349-intersection-of-two-arrays) |
+| [1672-richest-customer-wealth](https://github.com/priyanka91722/problems/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/priyanka91722/problems/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/priyanka91722/problems/tree/master/1929-concatenation-of-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/priyanka91722/problems/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
