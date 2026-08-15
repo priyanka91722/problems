@@ -12,6 +12,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/priyanka91722/problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/priyanka91722/problems/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -39,6 +40,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/priyanka91722/problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanka91722/problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanka91722/problems/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
